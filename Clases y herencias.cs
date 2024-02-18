@@ -18,7 +18,7 @@ Transporte::Transporte(string _color, string _nombre){
 }
 
 void Trasnporte::desplazamiento(){
-    cout << "Transporte: " << nombre << " se esta desplazando" << end;
+    cout << "Transporte: " << nombre << " se esta desplazando" << endl;
 
 }
 
